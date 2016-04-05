@@ -1,0 +1,7 @@
+D:\MyFolder\SAMS\code\IMSCore\Libraries\Common\Debug\IMSCore.Common.Logger.Provider.dll
+D:\MyFolder\SAMS\code\IMSCore\Libraries\Common\Debug\IMSCore.Common.Logger.Provider.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Common.Logger.Provider\obj\Debug\IMSCore.Common.Logger.Provider.csprojResolveAssemblyReference.cache
+D:\MyFolder\SAMS\code\Libraries\Common\Debug\IMSCore.Common.Logger.Provider.dll
+D:\MyFolder\SAMS\code\Libraries\Common\Debug\IMSCore.Common.Logger.Provider.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Common.Logger.Provider\obj\Debug\IMSCore.Common.Logger.Provider.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Common.Logger.Provider\obj\Debug\IMSCore.Common.Logger.Provider.pdb

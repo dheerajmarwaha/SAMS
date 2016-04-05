@@ -1,0 +1,6 @@
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Fabric.Persistence.Contracts\bin\Debug\IMSCore.Fabric.Persistence.Contracts.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Fabric.Persistence.Contracts\bin\Debug\IMSCore.Fabric.Persistence.Contracts.pdb
+D:\MyFolder\SAMS\code\Libraries\Fabric\Debug\IMSCore.Fabric.Persistence.Contracts.dll
+D:\MyFolder\SAMS\code\Libraries\Fabric\Debug\IMSCore.Fabric.Persistence.Contracts.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Fabric.Persistence.Contracts\obj\Debug\IMSCore.Fabric.Persistence.Contracts.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Fabric.Persistence.Contracts\obj\Debug\IMSCore.Fabric.Persistence.Contracts.pdb

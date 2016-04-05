@@ -1,0 +1,7 @@
+D:\MyFolder\SAMS\code\IMSCore\Libraries\Common\Debug\IMSCore.Common.SemanticLogger.dll
+D:\MyFolder\SAMS\code\IMSCore\Libraries\Common\Debug\IMSCore.Common.SemanticLogger.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Common.SemanticLogger\obj\Debug\IMSCore.Common.SemanticLogger.csprojResolveAssemblyReference.cache
+D:\MyFolder\SAMS\code\Libraries\Common\Debug\IMSCore.Common.SemanticLogger.dll
+D:\MyFolder\SAMS\code\Libraries\Common\Debug\IMSCore.Common.SemanticLogger.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Common.SemanticLogger\obj\Debug\IMSCore.Common.SemanticLogger.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Common.SemanticLogger\obj\Debug\IMSCore.Common.SemanticLogger.pdb

@@ -1,0 +1,5 @@
+D:\MyFolder\SAMS\code\Libraries\Common\Debug\IMSCore.Common.dll
+D:\MyFolder\SAMS\code\Libraries\Common\Debug\IMSCore.Common.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Common\obj\Debug\IMSCore.Common.csprojResolveAssemblyReference.cache
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Common\obj\Debug\IMSCore.Common.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Common\obj\Debug\IMSCore.Common.pdb

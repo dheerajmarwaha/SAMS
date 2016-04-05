@@ -1,0 +1,5 @@
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\Lego.Fabric.Persistence.SqlManager\obj\Debug\IMSCore.Fabric.Persistence.SqlManager.csprojResolveAssemblyReference.cache
+D:\MyFolder\SAMS\code\Libraries\Fabric\Debug\Lego.Fabric.Persistence.SqlManager.dll
+D:\MyFolder\SAMS\code\Libraries\Fabric\Debug\Lego.Fabric.Persistence.SqlManager.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\Lego.Fabric.Persistence.SqlManager\obj\Debug\Lego.Fabric.Persistence.SqlManager.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\Lego.Fabric.Persistence.SqlManager\obj\Debug\Lego.Fabric.Persistence.SqlManager.pdb

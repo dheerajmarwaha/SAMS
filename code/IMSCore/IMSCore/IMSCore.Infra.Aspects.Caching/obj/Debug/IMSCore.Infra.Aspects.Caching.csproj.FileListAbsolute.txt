@@ -1,0 +1,7 @@
+D:\MyFolder\SAMS\code\Libraries\Fabric\Debug\IMSCore.Infra.Aspects.Caching.dll
+D:\MyFolder\SAMS\code\Libraries\Fabric\Debug\IMSCore.Infra.Aspects.Caching.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.Aspects.Caching\obj\Debug\IMSCore.Infra.Aspects.Caching.csprojResolveAssemblyReference.cache
+D:\MyFolder\SAMS\code\Libraries\Infra\Debug\IMSCore.Infra.Aspects.Caching.dll
+D:\MyFolder\SAMS\code\Libraries\Infra\Debug\IMSCore.Infra.Aspects.Caching.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.Aspects.Caching\obj\Debug\IMSCore.Infra.Aspects.Caching.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.Aspects.Caching\obj\Debug\IMSCore.Infra.Aspects.Caching.pdb

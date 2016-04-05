@@ -1,0 +1,5 @@
+D:\MyFolder\SAMS\code\Libraries\Infra\Debug\IMSCore.Infra.Framework.Contracts.dll
+D:\MyFolder\SAMS\code\Libraries\Infra\Debug\IMSCore.Infra.Framework.Contracts.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.Framework.Contracts\obj\Debug\IMSCore.Infra.Framework.Contracts.csprojResolveAssemblyReference.cache
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.Framework.Contracts\obj\Debug\IMSCore.Infra.Framework.Contracts.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.Framework.Contracts\obj\Debug\IMSCore.Infra.Framework.Contracts.pdb

@@ -1,0 +1,14 @@
+D:\MyFolder\SAMS\code\IMSCore\IMSCore.Common.Logger.Contracts\bin\Debug\IMSCore.Common.Logger.Contracts.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore.Common.Logger.Contracts\bin\Debug\IMSCore.Common.Logger.Contracts.pdb
+D:\MyFolder\Libraries\Repository\Debug\IMSCore.Common.Logger.Contracts.dll
+D:\MyFolder\Libraries\Repository\Debug\IMSCore.Common.Logger.Contracts.pdb
+D:\MyFolder\SAMS\code\Libraries\Repository\Debug\IMSCore.Common.Logger.Contracts.dll
+D:\MyFolder\SAMS\code\Libraries\Repository\Debug\IMSCore.Common.Logger.Contracts.pdb
+D:\MyFolder\SAMS\Libraries\Repository\Debug\IMSCore.Common.Logger.Contracts.dll
+D:\MyFolder\SAMS\Libraries\Repository\Debug\IMSCore.Common.Logger.Contracts.pdb
+D:\MyFolder\SAMS\Libraries\Common\Debug\IMSCore.Common.Logger.Contracts.dll
+D:\MyFolder\SAMS\Libraries\Common\Debug\IMSCore.Common.Logger.Contracts.pdb
+D:\MyFolder\SAMS\code\Libraries\Common\Debug\IMSCore.Common.Logger.Contracts.dll
+D:\MyFolder\SAMS\code\Libraries\Common\Debug\IMSCore.Common.Logger.Contracts.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore.Common.Logger.Contracts\obj\Debug\IMSCore.Common.Logger.Contracts.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore.Common.Logger.Contracts\obj\Debug\IMSCore.Common.Logger.Contracts.pdb

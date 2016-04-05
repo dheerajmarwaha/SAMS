@@ -1,0 +1,5 @@
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Fabric.Persistance.Provider\obj\Debug\IMSCore.Fabric.Persistance.Provider.csprojResolveAssemblyReference.cache
+D:\MyFolder\SAMS\code\Libraries\Fabric\Debug\IMSCore.Fabric.Persistance.Provider.dll
+D:\MyFolder\SAMS\code\Libraries\Fabric\Debug\IMSCore.Fabric.Persistance.Provider.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Fabric.Persistance.Provider\obj\Debug\IMSCore.Fabric.Persistance.Provider.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Fabric.Persistance.Provider\obj\Debug\IMSCore.Fabric.Persistance.Provider.pdb

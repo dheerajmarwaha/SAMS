@@ -1,0 +1,5 @@
+D:\MyFolder\SAMS\code\Libraries\Infra\Debug\IMSCore.Infra.BootStrapper.dll
+D:\MyFolder\SAMS\code\Libraries\Infra\Debug\IMSCore.Infra.BootStrapper.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.BootStrapper\obj\Debug\IMSCore.Infra.BootStrapper.csprojResolveAssemblyReference.cache
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.BootStrapper\obj\Debug\IMSCore.Infra.BootStrapper.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.BootStrapper\obj\Debug\IMSCore.Infra.BootStrapper.pdb

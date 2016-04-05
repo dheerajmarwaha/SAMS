@@ -1,0 +1,6 @@
+D:\MyFolder\SAMS\Libraries\Infra\Debug\IMSCore.Infra.Aspects.Contracts.dll
+D:\MyFolder\SAMS\Libraries\Infra\Debug\IMSCore.Infra.Aspects.Contracts.pdb
+D:\MyFolder\SAMS\code\Libraries\Infra\Debug\IMSCore.Infra.Aspects.Contracts.dll
+D:\MyFolder\SAMS\code\Libraries\Infra\Debug\IMSCore.Infra.Aspects.Contracts.pdb
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.Aspects.Contracts\obj\Debug\IMSCore.Infra.Aspects.Contracts.dll
+D:\MyFolder\SAMS\code\IMSCore\IMSCore\IMSCore.Infra.Aspects.Contracts\obj\Debug\IMSCore.Infra.Aspects.Contracts.pdb

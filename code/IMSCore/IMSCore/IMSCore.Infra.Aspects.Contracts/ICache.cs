@@ -10,6 +10,7 @@ namespace IMSCore.Infra.Aspects.Contracts
         void Add(object t, string key);
 
         Object Get(string key);
+        Object GetString(string key);
         void Delete(string key);
     }
 }
